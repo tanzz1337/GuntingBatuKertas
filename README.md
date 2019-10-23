@@ -1,0 +1,2 @@
+# GuntingBatuKertas
+Gunting - Batu - Kertas
