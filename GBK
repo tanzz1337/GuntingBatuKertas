@@ -1,10 +1,8 @@
 # ================================ #
-# Code By Me Sultan Raja Marlindo  #
-# GBK = Gunting Batu Kertas        #
+# GBK = Gunting Batu Kertas              #
 # https://github.com/Baturaja1337  #
 # ================================ #
 
-# Module
 import datetime
 import os
 import random
