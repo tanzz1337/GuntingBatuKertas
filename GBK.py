@@ -45,7 +45,7 @@ def start():
     print("=" * 20)
     print('Pertandingan ke :', match)
     print("=" * 20)
-    usr = input('Your Weapon : ')
+    usr = input('Your Weapon : ').upper()
     print("Com Weapon : ", var_bel[x])
     print()
 
